@@ -173,10 +173,10 @@ plugins {
 ----
 
 
-You can run the command `{native_build_command}` to generate a native image. When the build completes, you will be able to run the code with a near-instantaneous startup time by executing the `{native_run_command}` command.
+You can run the command `{native_build_command}` to generate a native image. When the build completes, you will be able to run the code with a near-instantaneous startup time by executing the command `{native_run_command}`.
 
 
-You can also create a https://docs.spring.io/spring-boot/docs/current/reference/html/native-image.html#native-image.developing-your-first-application.buildpacks[Native Image using Buildpacks^]. You can generate a native image by running the `{native_image_build_command}` command. Once the build completes, you can start your application with the `{native_image_run_command}` command.
+You can also create a https://docs.spring.io/spring-boot/docs/current/reference/html/native-image.html#native-image.developing-your-first-application.buildpacks[Native Image using Buildpacks^]. You can generate a native image by running the command `{native_image_build_command}`. Once the build completes, you can start your application with the command `{native_image_run_command}`.
 
 
 
